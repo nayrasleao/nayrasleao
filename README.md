@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Nayra Leão</h1>
-<h3 align="center">Futuro desenvolvedor full stack de Manaus - AM</h3>
+<h3 align="center">Futura desenvolvedora full stack de Manaus - AM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayrasleao&label=Profile%20views&color=9358f7&style=plastic" alt="nayrasleao" /> </p>
 
