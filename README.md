@@ -1,4 +1,4 @@
-<img src=".github/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá 👋, sou <strong>Nayra Leão</strong>, de Manaus - AM.<br>
